@@ -3,12 +3,62 @@ All you need to know guide to use the MIGHTY SPARK AR !!
 Table of Contents:
 1.What is Spark AR Studio?
 2.How Businesses Can Use Spark AR Studio
-3.How to Access Custom AR Effects on Instagram
-How to Create Your Own AR Effects with Spark AR Studio
-Best Practices for AR Effects on Instagram
+3.Tips to create Spark AR
+4.How to Create Your Own AR Effects with Spark AR Studio for instagram
+5.Publishing and finishing
 
 1.What is Spark AR Studio?
 
-Spark AR Studio is an augmented reality platform for Mac & Windows that allows you to somewhat easily create AR effects for mobile cameras. Think of it like Photoshop or Sketch, but for AR.
+Spark AR Studio is an augmented reality platform for Mac & Windows that allows you to somewhat easily create AR effects for mobile cameras. 
+Think of it like Photoshop or Sketch, but for AR.
 
-2. 
+2. How Businesses Can Use Spark AR Studio?
+
+Businesses can use Spark AR Studio for advertising by creating an AR effect and uploading it to Facebook or Instagram for their audience to enjoy.
+As noted above with makeup brand WeMakeUp, they were able to run an advertisement that allowed users to preview different lip shades that would be best on different skin tones.
+Spark AR Instagram allows your brand to create interactive filters and AR effects that showcase your business’ products and services in a unique and modern way.
+If you’ve ever wondered how to make a Snapchat geofilter or how to make an Instagram face filter, Snap AR studio will show you the step-by-step process for creating your own custom AR effect.
+As a business, the first thing you need to decide is what business feature you want to advertise and how it will translate to a filter users can engage with.
+
+3.Tips to create Spark AR.
+
+These next couple of tips will serve as the ultimate guide to Spark AR studio so you can begin creating AR effects of your very own.
+
+a.Face-Tracking - Before you can begin creating your custom filter you need to first create a face tracking effect. 
+                  This will allow your design to identify a user’s face, follow their facial structure, and respond to different facial 
+                  expressions users are enacting with a face mesh. 
+                  This is where you will also add the different layers of your AR effect, from adding materials to applying texture to the filter.
+
+b.The Simulator - As you are adding more layers and more depth to your AR effect, you can choose to see how it will look on a device with the simulator.
+                 Simply click the drop down menu at the top of the simulator and select the type of device you want to see your effect in. 
+                 You can also preview your effect on Facebook by clicking the device icon on the left sidebar and hitting “send to app.”
+
+c.Face Reference Assets - Spark AR also has assets creators can use when designing their own AR effect. The sets all have different capabilities. 
+                          For example, the first one is meant to be used as a scale for reference when creating objects and textures. 
+                          The second is meant to be used when creators want to create their own custom textures. 
+                          The third is for debugging effects.
+                        
+d.Best Practices Design Strategy - Keep it simple. This attitude is mainly for the benefit of the users you are servicing. 
+                                  You want the effect to be straightforward so when users go to interact with your effect, 
+                                  they know exactly what is going on and what they should expect.
+
+e.Best Practices Effect Design - Make it personal. It’s easy to get lost in the number of different effects and filters you can add in AR,
+                                 but when a user is completely unrecognizable because of those effects, AR loses its magic.
+                                 Remember to allow users to keep their identity even with your designs so it still feels personal.
+                                 
+f.Best Practices Adding Interaction - Keep interactions obvious. Keep your interactions simple by using commands that users are already familiar with like
+                                      zooming in and out or changing camera view with a double tap. This will allow users to enjoy your AR effects more 
+                                      because you’re not detracting from the experience with complex commands.
+
+g.Best Practices Using Instructions - Use platform-approved interaction instructions that indicate what the user will experience. 
+                                      If you’re adding additional elements to your AR effect, make sure users can simply understand what
+                                      is going on if they choose to engage. For example, copy like, “tap anywhere to see rainbow” 
+                                      will orient users and let them know what and how they should interact with your effect.
+
+4. How to Create Your Own AR Effects with Spark AR Studio for instagram
+
+Step 1: Download Spark AR Studio
+Spark AR Studio is the easy-to-use platform you need to create custom filters and effects. Currently, it’s available for Mac and Windows.
+
+
+
