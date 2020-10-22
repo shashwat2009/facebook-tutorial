@@ -60,5 +60,43 @@ g.Best Practices Using Instructions - Use platform-approved interaction instruct
 Step 1: Download Spark AR Studio
 Spark AR Studio is the easy-to-use platform you need to create custom filters and effects. Currently, it’s available for Mac and Windows.
 
+Step 2: Decide on your effect
+
+Next, walk through the tutorials in the Learning Center to get a feel for the program’s interface. Once you’re ready to get started, decide whether you’ll create a filter
+from scratch or choose from one of the eight templates.
+We’re going to walk through the World Object template. This involves putting a 3D object into the real world, just like Coca-Cola Poland did with its polar bear.
+
+Step 3: Getting started
+
+You’ll see a placeholder object in the central panel when you open the template. That central panel is called the Viewport. This is where you’ll build your filter.
+The iPhone 8 in the corner is the Simulator. This is where you’ll preview your work. Using the dropdown, you can change the Simulator from an iPhone 8 to another device.
+To the left is the Scene panel. You’ll use the options here to edit your Instagram Stories AR filters.
+
+Step 4: Upload a 3D asset
+
+Choose a 3D asset for your filter from the AR Library or import your own. For this guide, we are importing a free asset from the AR Library.
+The AR Library also allows you to choose from free audio files, animations and more.
+
+Step 5: Edit the behavior of the uploaded graphic
+
+Now, you’ll see your uploaded asset—in our case, a rotating pizza—in the Viewport. Using the Scene panel, edit how it looks, moves and interacts with the real-world. 
+The edits 
+will result in your custom AR filter.
+For example, you can change the colour and intensity of ambient light. The below images show the 3D asset without ambient lighting (top) and with ambient lighting (below).
+
+Step 6: Test your effect
+
+You can send your test file to Instagram or Facebook to see how it works in Instagram Stories or Facebook Stories. Or you can download the Spark AR Player app.
+
+Step 7: Publish your effect
+
+Now, press the “upload” button in the bottom left-hand corner. You’ll find it right below the “test on device” button.
+Keep in mind that your new effect won’t be published immediately. First, your creation will be reviewed to make sure it meets Spark AR’s policies and guidelines. 
+This review process might only take a few days, or it could take up to one week.
+Spark AR also has more details in its Learning Center on submitting newly created effects for approval.
+
+This was all from my side and Keep Learning!!
+
+#100 #CENTURY #LEARN #BYE !!
 
 
